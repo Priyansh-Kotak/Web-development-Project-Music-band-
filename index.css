@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 750px;
+
+
+}
+
+.header {
+    text-align: center;
+    color: bisque;
+    font-family: "Rubik Vinyl";
+    font-size: 30px;
+}
+
+/* .mid{
+    border: 2px solid white;
+    top: 1000px; */
+/* } */
+
+.w {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("kick.png");
+    /* image-resolution: 100px; */
+    background-repeat: no-repeat;
+    background-size: 149px 158px;
+
+
+}
+
+.a {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("snare.png");
+
+}
+
+.s {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("tom1.png");
+}
+
+.d {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("tom2.png");
+
+}
+
+.j {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("tom3.png");
+
+}
+
+.k {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("tom4.png");
+
+}
+
+.l {
+    border: 3px solid red;
+    height: 170px;
+    width: 150px;
+    position: relative;
+    font-size: 80px;
+    top: 35px;
+    left: 168px;
+    margin: 10px;
+    font-family: "Passion One";
+    color: navy;
+    background-image: url("crash.png");
+
+}
+
+.footer {
+
+    /* border: 2px solid red; */
+    font-size: large;
+    text-align: center;
+    color: azure;
+    position: absolute;
+    bottom: 90px;
+    left: 600px;
+    font-family: "Francois One";
+
+}
